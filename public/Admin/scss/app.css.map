@@ -1,0 +1,13 @@
+{
+    "version": 3,
+<<<<<<< HEAD
+    "mappings": "AAAA,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,wBAAwB,CAAA,AAAA,aAAC,CAAD,IAAC,AAAA,EAAoB;EAC3C,OAAO,EAAE,IAAI;CACd",
+=======
+    "mappings": "AAAA,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,iBAAiB,CAAC;EAChB,KAAK,EAAE,KAAK;CACb;;AAED,AAAA,kBAAkB,CAAC;EACjB,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,kBAAkB,AAAA,MAAM,CAAC;EACvB,OAAO,EAAE,IAAI;CACd;;AAED,AAAA,wBAAwB,CAAA,AAAA,aAAC,CAAD,IAAC,AAAA,EAAoB;EAC3C,OAAO,EAAE,IAAI;CACd",
+>>>>>>> be637bb (Добавил функционал множественного привязывания складов к менеджеру по складам)
+    "sources": [
+        "app.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}
